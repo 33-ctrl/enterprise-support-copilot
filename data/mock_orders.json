@@ -1,0 +1,26 @@
+[
+  {
+    "order_id": "A12345",
+    "customer_id": "C10001",
+    "payment_status": "paid",
+    "shipment_status": "pending",
+    "inventory_status": "in_stock",
+    "refund_eligible": true
+  },
+  {
+    "order_id": "A67890",
+    "customer_id": "C10002",
+    "payment_status": "paid",
+    "shipment_status": "shipped",
+    "inventory_status": "in_stock",
+    "refund_eligible": false
+  },
+  {
+    "order_id": "A11111",
+    "customer_id": "C10003",
+    "payment_status": "paid",
+    "shipment_status": "pending",
+    "inventory_status": "out_of_stock",
+    "refund_eligible": true
+  }
+]

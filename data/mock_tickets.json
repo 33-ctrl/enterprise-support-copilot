@@ -1,0 +1,16 @@
+[
+  {
+    "ticket_id": "T9001",
+    "customer_id": "C10001",
+    "title": "订单迟迟未发货",
+    "priority": "medium",
+    "status": "open"
+  },
+  {
+    "ticket_id": "T9002",
+    "customer_id": "C10003",
+    "title": "申请退款",
+    "priority": "high",
+    "status": "resolved"
+  }
+]
